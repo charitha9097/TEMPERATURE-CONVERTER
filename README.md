@@ -17,3 +17,5 @@ print("Converted temperature:", result)
 
 # OUTPUT:
 
+<img width="1782" height="947" alt="Image" src="https://github.com/user-attachments/assets/7bab2e4a-a48a-4c8a-9caf-fa4f277a8fb0" />
+
